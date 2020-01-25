@@ -18,4 +18,5 @@ I originally started this project in C on my first Arduino. At some point I deci
 
 Here's what it looks like:
 
-![Output sample](https://j.gifs.com/VArxZ5.gif)
+[<img src="https://img.youtube.com/vi/h6eNt7xgkLE/maxresdefault.jpg" width="50%">](https://youtu.be/h6eNt7xgkLE)
+[![Watch the video](https://img.youtube.com/vi/h6eNt7xgkLE/maxresdefault.jpg)](https://youtu.be/h6eNt7xgkLE)
