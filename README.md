@@ -13,3 +13,9 @@ I originally started this project in C on my first Arduino. At some point I deci
 * Custom welded aluminum frame
 * Wheels
 * Lack of survival instinct
+
+# Prototype
+
+Here's what it looks like:
+
+![Output sample](https://gifs.com/gif/sharpway-test-1-xn5ELJ?muted=false)
