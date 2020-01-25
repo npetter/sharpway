@@ -1,5 +1,5 @@
 # Sharpway
-The code for my personal "build your own Segway"-project.
+The code for my personal "build your own Segway"-project I started 10 years ago.
 
 I originally started this project in C on my first Arduino. At some point I decided to go all in on C#/.Net and ported everything to a Netduino. This repository represents that.
 
