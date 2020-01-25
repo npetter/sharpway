@@ -18,4 +18,4 @@ I originally started this project in C on my first Arduino. At some point I deci
 
 Here's what it looks like:
 
-![Output sample](https://gifs.com/gif/sharpway-test-1-xn5ELJ?muted=false)
+![Output sample](https://j.gifs.com/xn5ELJ.gif)
