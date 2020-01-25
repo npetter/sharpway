@@ -16,9 +16,7 @@ I originally started this project in C on my first Arduino. At some point I deci
 
 # Prototype
 
-Here's what it looks like:
-
-[<img src="https://img.youtube.com/vi/h6eNt7xgkLE/hqdefault.jpg" width="50%">](https://youtu.be/h6eNt7xgkLE)
+Here's what it looks like (link to video):
 
 
-[![Watch the video](https://img.youtube.com/vi/h6eNt7xgkLE/hqdefault.jpg)](https://youtu.be/h6eNt7xgkLE)
+[![watch the video](https://img.youtube.com/vi/h6eNt7xgkLE/hqdefault.jpg)](https://youtu.be/h6eNt7xgkLE)
